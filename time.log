@@ -1,0 +1,5 @@
+INFO:root:fuzz.ratio выполнена за 6.250001024454832e-05
+INFO:root:Levenshtein.ratio выполнена за 2.0699924789369106e-05
+INFO:root:Levenshtein.distance выполнена за 3.800005652010441e-05
+INFO:root:levenshtein собственный алгоритм выполнен за 0.01917640003375709
+
